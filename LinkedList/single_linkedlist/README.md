@@ -20,3 +20,6 @@
 * ```display()``` : print all the nodes of the list.
 
 ## Details :
+*here i will give more explanation about every function*
+
+1. ```c++ es_empty()``` :
