@@ -22,4 +22,7 @@
 ## Details :
 *here i will give more explanation about every function*
 
-1. ```c++ es_empty()``` :
+1. ```c++ 
+es_empty()
+``` 
+:
