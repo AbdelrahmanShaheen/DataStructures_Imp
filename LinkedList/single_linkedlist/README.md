@@ -20,7 +20,7 @@
 * ```display()``` : print all the nodes of the list.
 
 ## Time Complexity :
-*here i will give the time complexity of every function using 'O' notation *
+*here i will give the time complexity of every function using 'O' notation*
 
 | Function      |   Best Case     | Worst Case    |
 | :---          |     :---:       |          ---: |
