@@ -19,10 +19,28 @@
 
 * ```display()``` : print all the nodes of the list.
 
-## Details :
-*here i will give more explanation about every function*
+## Time Complexity :
+*here i will give the time complexity of every function using 'O' notation *
 
-1. ```c++ 
-es_empty()
-``` 
-:
+| Function      |   Best Case     | Worst Case    |
+| :---          |     :---:       |          ---: |
+| es_empty      | O(1)            | O(1)          |
+| insert_end    | O(1)            | O(n)          |
+| delete_end    | O(1)            | O(n)          |  
+| insert_first  | O(1)            | O(1)          |
+| delete_first  | O(1)            | O(1)          | 
+| insert_nth    | O(1) 1th node   | O(n)          |
+| delete_nth    | O(1) 1th node   | O(n)          |
+| display       | O(1)            | O(n)          |
+
+
+
+
+
+
+
+
+
+
+
+
