@@ -3,7 +3,7 @@
 
 ## Methods and Usages :
 
-* es_empty() : check if a list is empty.
+* ```es_empty()``` : check if a list is empty.
 
 * insert_end(int value) : insert a node in the end of the list.
 
@@ -18,3 +18,5 @@
 * delete_nth(int index) : delete a node from any valid position in the list. 
 
 * display() : print all the nodes of the list.
+
+## Details :
