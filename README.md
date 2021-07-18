@@ -6,7 +6,8 @@ The data structures are implemented in c++.
 ## Table of Contents :
 * [LinkedList](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/LinkedList)
   - [Single](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/LinkedList/single_linkedlist)
-  - [Doubly](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/LinkedList/DoublyLL)
+  - [Circular](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/LinkedList/CircularLL)
+  - [Doubly](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/LinkedList/doubly_linkedlist)
   
 * [Stack](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/Stack)
   - [Array Bassed](https://github.com/AbdelrahmanShaheen/DataStructures_Imp/tree/master/Stack/stack%5BArrayBassed%5D) 
