@@ -1,15 +1,16 @@
 #include <iostream>
-#include "BST.h"
+#include "BST.cpp"
 
 using namespace std;
 
 int main() {
     BST test;
-    test.RInsert(50);
-    test.RInsert(10);
-    test.RInsert(40);
-    test.RInsert(20);
-    test.RInsert(30);
+    test.RInsert(3);
+    test.RInsert(5);
+    test.RInsert(4);
+    test.RInsert(9);
+    test.RInsert(7);
+    test.RInsert(8);
     test.InOrder();
     cout << endl;
     if (test.RSearch(5))
@@ -21,7 +22,7 @@ int main() {
         cout << "i found the element :)\n";
     else
         cout << "the element is not found ):\n";
-    test.Delete(50);
+    test.Delete(9);
     test.InOrder();
     cout<<endl;
 }

@@ -9,7 +9,7 @@ class BST {
 private:
     Node *root;
 public:
-    BST(Node *root = nullptr); //constructor.
+    BST(Node *root = NULL); //constructor.
     void IterativeInsert(int);
 
     //recursive insert.
