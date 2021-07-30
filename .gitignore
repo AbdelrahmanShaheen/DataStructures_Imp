@@ -3,4 +3,4 @@
 CMakeLists.txt
 cmake-build-debug
 .idea
-.exe.core
+*.core
